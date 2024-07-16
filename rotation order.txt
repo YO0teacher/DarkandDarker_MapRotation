@@ -1,0 +1,50 @@
+In-game rotation: Crypts -> Frost Mountain -> Goblin Caves
+Rotation by the hour: Crypts -> Goblin Caves -> Frost Mountain
+
+1pm Central Time 
+Solos:
+	Crypts-----------00 -> 03
+	Frost Mountain---03 -> 06
+	Goblin Caves-----06 -> 09
+	Crypts-----------09 -> 12
+	Frost Mountain---12 -> 15
+	Goblin Caves-----15 -> 18
+	Crypts-----------18 -> 21
+	Frost Mountain---21 -> 24
+	Goblin Caves-----24 -> 27
+	Crypts-----------27 -> 30
+	Frost Mountain---30 -> 33
+	Goblin Caves-----33 -> 36
+	Crypts-----------36 -> 39
+	Frost Mountain---39 -> 42
+	Goblin Caves-----42 -> 45
+	Crypts-----------45 -> 48
+	Frost Mountain---48 -> 51
+	Goblin Caves-----51 -> 54
+	Crypts-----------54 -> 57
+	Frost Mountain---57 -> 60
+24 Hour Cycle - Military Time
+	0 Frost Mountain
+	1 Crypts
+	2 Goblin Caves
+	3 Frost Mountain
+	4 Crypts
+	5 Goblin Caves
+	6 Frost Mountain
+	7 Crypts
+	8 Goblin Caves
+	9 Frost Mountain
+	10 Crypts
+	11 Goblin Caves
+	12 Frost Mountain
+	13 Crypts
+	14 Goblin Caves
+	15 Frost Mountain
+	16 Crypts
+	17 Goblin Caves
+	18 Frost Mountain
+	19 Crypts
+	20 Goblin Caves
+	21 Frost Mountain
+	22 Crypts
+	23 Goblin Caves
