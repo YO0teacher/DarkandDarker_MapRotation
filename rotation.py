@@ -14,7 +14,7 @@ def time():
     target -= timedelta(minutes=target.minute % 3)
 
     # Calculate remaining time (with a slight delay to account for processing time)
-    remaining = target - now + timedelta(seconds=.8)
+    remaining = target - now
     # Format as minutes:seconds
     countdown = "Next rotation in\n" + '{:02d}:{:02d}'.format(remaining.seconds // 60, remaining.seconds % 60)
     
