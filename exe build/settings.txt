@@ -1,2 +1,2 @@
 Seconds of delay
-1.5
+.5
