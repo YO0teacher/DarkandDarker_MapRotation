@@ -15,7 +15,7 @@ def fetch_settings():
     with open('settings.txt', 'r') as file:
         file.readline()  # Skip the first line
         second_line = file.readline().strip()  # Read the second line and strip newline characters
-        delay_seconds = float(second_line)  # Convert the line to an integer
+        delay_seconds = float(second_line)  # Convert the line to a float
         delay = timedelta(seconds=delay_seconds)  # Convert seconds to timedelta
 
 def time():
