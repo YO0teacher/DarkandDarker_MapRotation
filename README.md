@@ -1,3 +1,5 @@
+(R.I.P map rotation.. I'll leave this here in case it gets added back some day.)
+
 Heya, there's 2 working builds, the .py build, and the .exe build.
 Both work just fine, but their timings might be slightly different. 
 If the timing is incorrect, change the delay in the settings.txt file in the respective build folder.
